@@ -66,9 +66,6 @@ header span img{
     color: #FFF;
     margin: 5px;
 }
-.slide{
-
-}
 @keyframes slide{
     0%{
         translate: 0;
